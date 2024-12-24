@@ -15,4 +15,4 @@
 4. Восстановить пароль - TextButton
 5. Логин и Пароль - TextField, пароль скрыт с помощью obscureText
 
-![image]()![Снимок экрана 2024-12-24 112346.png](pics%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-24%20112346.png)
+![Снимок экрана 2024-12-24 112346](https://github.com/user-attachments/assets/6c5292ee-af6c-4434-bdd4-3f420eba9671))
